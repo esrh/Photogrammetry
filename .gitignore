@@ -2,6 +2,7 @@ old/
 ignore/
 *.bat
 *.bak
+*.lnk
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
